@@ -16,5 +16,6 @@ public class Main {
 		*/
 		startAction.menu();
 	}
-
+/*у меня был друг саша петух. и борил полшестого*/
+	
 }
