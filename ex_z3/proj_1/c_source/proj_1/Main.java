@@ -16,5 +16,5 @@ public class Main {
 		*/
 		startAction.menu();
 	}
-	
+	/* привет всем */
 }
