@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		int a=0;
 		Action startAction = new Action();
 		/*startAction.add_elevents();
 		startAction.temp_get_all();
@@ -16,5 +16,5 @@ public class Main {
 		*/
 		startAction.menu();
 	}
-	/* ïðèâåò âñåì */
+	/* Ã¯Ã°Ã¨Ã¢Ã¥Ã² Ã¢Ã±Ã¥Ã¬ */
 }
